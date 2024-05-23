@@ -16,11 +16,11 @@ To build this system, the following libraries and tools were employed:
 •	pickle: For serializing data.
 •	streamlit: For building the user interface and deploying the application.
 ## Architecture Diagram
- 
+ ![image](https://github.com/Asohani1205/GameRecommendationSystem/assets/100613203/1fa521b4-5af6-4d2c-86cd-a032e9f4e616)
 
 
 
-## RAG and LLM Explanation
+# RAG and LLM Explanation
 ## Retrieval-Augmented Generation (RAG)
 Retrieval-Augmented Generation is a method that combines information retrieval with text generation. In the context of this project:
 1.	Retrieval: When a user provides a prompt, the system first retrieves relevant chunks of information from a vector database using semantic search. This helps in finding the most relevant pieces of data that can aid in answering the query.
@@ -31,8 +31,8 @@ Large Language Models are advanced AI models capable of understanding and genera
 1.	Text Embeddings: Converting textual information into high-dimensional vectors that capture the semantic meaning of the text.
 2.	Question Answering: Generating human-like responses to user queries based on the context provided by the retrieved information.
 3.	Recommendations: Providing game recommendations by understanding the user's preferences and leveraging the contextual information from the vector database.
-Project Structure
- 
+## Project Structure
+ ![image](https://github.com/Asohani1205/GameRecommendationSystem/assets/100613203/120b28ff-33fc-4599-a29f-c4b7e354fbf6)
 
 ## Steps Followed
 1. Data Preparation
