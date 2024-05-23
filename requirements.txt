@@ -78,7 +78,7 @@ six
 smmap
 sniffio
 sqlalchemy
-streamlit
+streamlit==1.34.0
 tenacity
 tiktoken
 tk
