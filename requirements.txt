@@ -1,0 +1,7 @@
+pandas
+tiktoken
+lancedb
+openai
+langchain_openai
+langchain
+langchain_community
