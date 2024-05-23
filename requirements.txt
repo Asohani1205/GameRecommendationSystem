@@ -12,8 +12,6 @@ annotated-types
 anyio
 attrs
 blinker
-bzip
-ca-certificates
 cachetools
 certifi
 charset-normalizer
@@ -23,16 +21,13 @@ dataclasses-json
 decorator
 deprecation
 distro
-expat
 frozenlist
 gitdb
 gitpython
 greenlet
-h
 httpcore
 httpx
 idna
-jinja
 jsonpatch
 jsonpointer
 jsonschema
@@ -44,7 +39,6 @@ langchain-core
 langchain-openai
 langchain-text-splitters
 langsmith
-libffi
 markdown-it-py
 markupsafe
 marshmallow
@@ -53,7 +47,6 @@ multidict
 mypy-extensions
 numpy
 openai
-openssl
 orjson
 overrides
 packaging
@@ -68,7 +61,6 @@ pydantic-core
 pydeck
 pygments
 pylance
-python
 python-dateutil
 python-dotenv
 pytz
@@ -86,7 +78,6 @@ six
 smmap
 sniffio
 sqlalchemy
-sqlite
 streamlit
 tenacity
 tiktoken
@@ -98,11 +89,7 @@ tqdm
 typing-extensions
 typing-inspect
 tzdata
-urllib
 vc
-vs_runtime
 watchdog
 wheel
-xz
 yarl
-zlib
